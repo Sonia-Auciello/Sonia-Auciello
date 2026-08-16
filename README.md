@@ -1,8 +1,9 @@
 Ciao! 👋 Sono Sonia Auciello
 🎓 Laureata in Informatica e Tecnologie per la Produzione del Software (ITPS)  
 📍 Università degli Studi di Bari Aldo Moro
+---
 🛠️ Tecnologie & Competenze
-Linguaggi di programmazione:  
+Linguaggi:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -12,7 +13,7 @@ Linguaggi di programmazione:
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
 Sviluppo Web:  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Web Development](https://img.shields.io/badge/Programmazione_Web-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Programmazione Web](https://img.shields.io/badge/Programmazione_Web-4285F4?style=flat&logo=googlechrome&logoColor=white)
 Database:  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -24,6 +25,8 @@ Sistemi e reti:
 Software e produttività:  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
+---
 📚 Progetti in Evidenza
 
+---
 📫 Contatti
