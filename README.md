@@ -28,6 +28,23 @@ Ciao! 👋 Sono Sonia Auciello </br>
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
 ---
 📚 Progetti in Evidenza
-
----
-📫 Contatti
+AnimalApp
+Applicazione mobile sviluppata per l'esame di Sviluppo di Mobile Software.
+NewAge-Fitness
+Progetto universitario per l'esame di Progettazione dell'Interazione con l'Utente, dedicato alla progettazione UX/UI.
+TestMaster
+Progetto universitario per l'esame di Integrazione e Test di Sistemi Software, con attività di testing e analisi della qualità del software.
+Calcolo-Numerico
+Notebook Python per l'esame di Calcolo Numerico, con interpolazione, matrici di Vandermonde, nodi di Chebyshev e metodo di Newton.
+Radio-Rental-System
+Applicazione Java per la gestione di noleggi radio, clienti e riparazioni.
+TCP-Client-Server-C
+Esonero di Reti di Calcolatori: applicazione client-server TCP sviluppata in C.
+Prova-Laboratorio-Basi-Di-Dati
+Prova di laboratorio di Basi di Dati, con progettazione e interrogazione di un database MySQL.
+Tamponi-Co
+Progetto universitario per l'esame di Ingegneria del Software: sistema web per la prenotazione e gestione di test diagnostici.
+Gestione-Conti-C
+Progetto universitario per l'esame di Laboratorio di Informatica, sviluppato in C per la gestione di movimenti e saldi bancari.
+Educazione-Alimentare-iSpring
+Corso didattico interattivo realizzato con PowerPoint e iSpring per l'esame di Progettazione e Produzione di Informatica per la Didattica.
