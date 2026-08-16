@@ -26,29 +26,7 @@ Ciao! 👋 Sono Sonia Auciello </br>
 </br>Software e produttività:  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
----
-📚 Tecnologie & Competenze 
-🐾 AnimalApp - Progetto sviluppato per l'esame di Sviluppo di Mobile Software.  
-Applicazione Android per la gestione di animali, profili, segnalazioni, spese, diagnosi, richieste, QR code e condivisione.</br>
-🏋️ NewAge-Fitness - Progetto sviluppato per l'esame di Progettazione dell'Interazione con l'Utente.  
-Progettazione UX/UI con analisi dei task, personas, requisiti, prototipi a bassa e alta fedeltà e valutazioni di usabilità.
-🧪 TestMaster - Progetto sviluppato per l'esame di Integrazione e Test di Sistemi Software.  
-Progetto Java dedicato al testing software con JUnit, Maven, JaCoCo, jqwik e mutation testing con PIT.
-📊 Calcolo-Numerico - Progetto sviluppato per l'esame di Calcolo Numerico.  
-Notebook Python con interpolazione, matrici di Vandermonde, nodi di Chebyshev, analisi dell'errore e metodo di Newton.
-📻 Radio-Rental-System - Progetto universitario sviluppato in Java.  
-Applicazione per la gestione di noleggi radio, clienti, riparazioni e persistenza dei dati.
-🌐 TCP-Client-Server-C - Esonero di Reti di Calcolatori.  
-Applicazione client-server TCP in C per l'elaborazione remota di operazioni aritmetiche tramite socket.
-🗄️ Prova-Laboratorio-Basi-Di-Dati - Prova di laboratorio di Basi di Dati.  
-Progettazione di database MySQL con creazione delle tabelle, vincoli, popolamento, query SQL, viste e gestione dei privilegi.
-🩺 Tamponi-Co - Progetto sviluppato per l'esame di Ingegneria del Software.  
-Web application per la prenotazione e gestione di test diagnostici, completa di analisi dei requisiti, UML, database e documentazione.
-💳 Gestione-Conti-C - Progetto sviluppato per l'esame di Laboratorio di Informatica.  
-Software in C per la gestione di movimenti bancari, saldi, persistenza su file binario e test automatici.
-🍎 Educazione-Alimentare-iSpring - Progetto sviluppato per l'esame di Progettazione e Produzione di Informatica per la Didattica.  
-Corso didattico interattivo sull'educazione alimentare realizzato con PowerPoint e iSpring, con quiz e contenuti multimediali.
-Esonero di Reti di Calcolatori: applicazione client-server TCP sviluppata in C.
+
 Prova-Laboratorio-Basi-Di-Dati
 Prova di laboratorio di Basi di Dati, con progettazione e interrogazione di un database MySQL.
 Tamponi-Co
