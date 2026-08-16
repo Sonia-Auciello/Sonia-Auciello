@@ -1,5 +1,4 @@
-Ciao! 👋 Sono Sonia Auciello
-
+Ciao! 👋 Sono Sonia Auciello </br>
 🎓 Laureata in Informatica e Tecnologie per la Produzione del Software (ITPS)  
 📍 Università degli Studi di Bari Aldo Moro
 ---
