@@ -23,7 +23,7 @@ Database: </br>
 Sistemi e reti:  </br>
 ![Sistemi Operativi](https://img.shields.io/badge/Sistemi_Operativi-333333?style=flat)
 ![Architetture di Rete](https://img.shields.io/badge/Architetture_di_Rete-0066CC?style=flat)
-Software e produttività:  </br>
+</br>Software e produttività:  
 </br>![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
 ---
