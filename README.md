@@ -27,9 +27,9 @@ Ciao! 👋 Sono Sonia Auciello </br>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
 ---
-📚 Progetti in Evidenza
+📚 Tecnologie & Competenze 
 🐾 AnimalApp - Progetto sviluppato per l'esame di Sviluppo di Mobile Software.  
-Applicazione Android per la gestione di animali, profili, segnalazioni, spese, diagnosi, richieste, QR code e condivisione.
+Applicazione Android per la gestione di animali, profili, segnalazioni, spese, diagnosi, richieste, QR code e condivisione.</br>
 🏋️ NewAge-Fitness - Progetto sviluppato per l'esame di Progettazione dell'Interazione con l'Utente.  
 Progettazione UX/UI con analisi dei task, personas, requisiti, prototipi a bassa e alta fedeltà e valutazioni di usabilità.
 🧪 TestMaster - Progetto sviluppato per l'esame di Integrazione e Test di Sistemi Software.  
