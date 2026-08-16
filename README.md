@@ -16,7 +16,7 @@ Ciao! 👋 Sono Sonia Auciello </br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Programmazione Web](https://img.shields.io/badge/Programmazione_Web-4285F4?style=flat&logo=googlechrome&logoColor=white)
 </br>Database: 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+</br>![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-555555?style=flat)
