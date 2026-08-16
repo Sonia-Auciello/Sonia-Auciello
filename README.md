@@ -26,12 +26,3 @@ Ciao! 👋 Sono Sonia Auciello </br>
 </br>Software e produttività:  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat&logo=autodesk&logoColor=white)
-
-Prova-Laboratorio-Basi-Di-Dati
-Prova di laboratorio di Basi di Dati, con progettazione e interrogazione di un database MySQL.
-Tamponi-Co
-Progetto universitario per l'esame di Ingegneria del Software: sistema web per la prenotazione e gestione di test diagnostici.
-Gestione-Conti-C
-Progetto universitario per l'esame di Laboratorio di Informatica, sviluppato in C per la gestione di movimenti e saldi bancari.
-Educazione-Alimentare-iSpring
-Corso didattico interattivo realizzato con PowerPoint e iSpring per l'esame di Progettazione e Produzione di Informatica per la Didattica.
